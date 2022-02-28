@@ -8,22 +8,6 @@
 		"displayName": "Test Hex Project - WFI32-IoT AWS C SDK Out-of-box Demo",
 		"projectName": "Test Hex Project - WFI32-IoT",
 		"shortDescription": "This example application uses AWS C SDK v4.0 to report temperature and light values to AWS cloud",
-		"ide": {
-			"name": "MPLABX",
-			"semverRange": ">=5.50.0"
-		},
-		"compiler": {
-				"name": "XC32",
-				"semverRange": ">=2.50.0"
-			},
-		"dfp": {
-			"name": "PIC32MZ-W_DFP",
-			"semverRange": "^1.4.193"
-		},
-		"configurator": {
-			"name": "MHC",
-			"semverRange": ">=3.8.1"
-		},
 		"device": {
 			"metaDataVersion": "1.0.0",
 			"category": "com.microchip.portal.contentRef",
