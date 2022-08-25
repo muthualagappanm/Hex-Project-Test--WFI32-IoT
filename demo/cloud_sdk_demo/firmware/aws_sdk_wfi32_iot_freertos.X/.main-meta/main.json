@@ -4,7 +4,7 @@
 	"content": {
 		"metaDataVersion": "1.0.1",
 		"name": "com.microchip.mcu32.mplabx.project.hex-test-.project.WFI32-IoT",
-		"version": "4.6.1",
+		"version": "4.6.2",
 		"displayName": "Test Hex Project - WFI32-IoT AWS C SDK Out-of-box Demo",
 		"projectName": "Test Hex Project - WFI32-IoT",
 		"shortDescription": "This example application uses AWS C SDK v4.0 to report temperature and light values to AWS cloud",
@@ -27,10 +27,6 @@
 		"keywords": [
 			"MHC",
 			"Harmony",
-			"PIC32MZ1025W104132",
-			"WFI32",
-			"WFI32E01",
-			"PIC32MZ W1 Family",
 			"wireless"
 		],
 		"additionalData": {
