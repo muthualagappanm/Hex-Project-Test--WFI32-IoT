@@ -2,9 +2,9 @@
 	"metaDataVersion": "1.0.0",
 	"category": "com.microchip.hex.project",
 	"content": {
-		"metaDataVersion": "1.0.1",
+		"metaDataVersion": "1.0.2",
 		"name": "com.microchip.mcu32.mplabx.project.hex-test-.project.WFI32-IoT",
-		"version": "4.6.2",
+		"version": "4.6.3",
 		"displayName": "Test Hex Project - WFI32-IoT AWS C SDK Out-of-box Demo",
 		"projectName": "Test Hex Project - WFI32-IoT",
 		"shortDescription": "This example application uses AWS C SDK v4.0 to report temperature and light values to AWS cloud",
@@ -18,8 +18,7 @@
 				"versionRange": "*"
 			}
 		},
-        "board": "SAM-IOT_WG_DEVELOPMENT_BOARD",
-		"hexFileName": "../../../../../prebuilt/aws_sdk_wfi32_iot_freertos.X.production.hex",
+        "board": "WFI32_IOT_BOARD",
 		"author": "Microchip",
 		"peripherals": [
 			"Wi-Fi"
@@ -38,7 +37,8 @@
 					"fileName": "./../../../../README.md",
 					"mimeType": "text/markdown"
 				}
-			}
+			},
+			"hexFileName": "../../../../../prebuilt/aws_sdk_wfi32_iot_freertos.X.production.hex"
 		}
 	}
 }
