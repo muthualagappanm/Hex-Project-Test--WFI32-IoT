@@ -38,7 +38,7 @@
 					"mimeType": "text/markdown"
 				}
 			},
-			"hexFileName": "../../../../../prebuilt/aws_sdk_wfi32_iot_freertos.X.production.hex"
+			"hexFileName": "../../../../prebuilt/aws_sdk_wfi32_iot_freertos.X.production.hex"
 		}
 	}
 }
