@@ -18,7 +18,6 @@
 				"versionRange": "*"
 			}
 		},
-        "board": "WFI32_IOT_BOARD",
 		"author": "Microchip",
 		"peripherals": [
 			"Wi-Fi"
